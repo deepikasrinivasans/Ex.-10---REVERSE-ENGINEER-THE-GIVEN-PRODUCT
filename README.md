@@ -29,14 +29,11 @@
   ###   ●	Wait until the nozzle & bed plate comes into the required temperature.
   ###   ●	Close the doors of the 3d printer.
   ###   ●	Open the file from the USB storage and select the Print option.
-
 ## Input:
-
+![WhatsApp Image 2023-11-08 at 3 24 31 PM](https://github.com/deepikasrinivasans/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/119393935/515f0ec7-2bad-4f21-a9d0-eb2297af12e8)
 ### Output:
-
-
-### Name:
-### Register Number:
-
+![EMPDSTAMP](https://github.com/deepikasrinivasans/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/119393935/cbef84af-eaca-4d83-bd10-7a9cbca5840d)
+### Name: DEEPIKA S
+### Register Number: 212222230028
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.

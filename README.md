@@ -30,9 +30,9 @@
   ###   ●	Close the doors of the 3d printer.
   ###   ●	Open the file from the USB storage and select the Print option.
 ## Input:
-![WhatsApp Image 2023-11-08 at 3 24 31 PM](https://github.com/deepikasrinivasans/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/119393935/515f0ec7-2bad-4f21-a9d0-eb2297af12e8)
+![em1](https://github.com/deepikasrinivasans/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/119393935/4a81a892-a97d-43e1-95d9-313d7cbec944)
 ### Output:
-![EMPDSTAMP](https://github.com/deepikasrinivasans/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/119393935/cbef84af-eaca-4d83-bd10-7a9cbca5840d)
+![em2](https://github.com/deepikasrinivasans/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/119393935/5cb6d08d-3a1e-4a32-a17f-042b1f220b09)
 ### Name: DEEPIKA S
 ### Register Number: 212222230028
 ## RESULT:
